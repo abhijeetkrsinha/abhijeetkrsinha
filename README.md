@@ -1,16 +1,21 @@
-## Hi there 👋
+# iOS Apps – MxMix, MXQ, AirArabia, CloudGOO
 
-<!--
-**abhijeetkrsinha/abhijeetkrsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains multiple iOS applications developed in **Swift** and **Objective-C**, showcasing clean architecture, modular design, and modern development practices.
 
-Here are some ideas to get you started:
+## Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **MxMix** – [Short one-line description, e.g., "A music mixing app with intuitive controls"]
+- **MXQ** – [Short one-line description]
+- **AirArabia** – [Short one-line description]
+- **CloudGOO** – [Short one-line description]
+
+## Features
+- Built with **Swift / Objective-C**
+- Uses **Swift Package Manager** for dependencies
+- Supports **iOS 15+**
+- Implements **modern architectures (MVVM / VIPER / Clean patterns)**
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
